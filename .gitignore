@@ -1,0 +1,30 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+
+# NuGet packages
+packages/
+
+# Test Results
+TestResults/
+
+# Screenshots folder - uncomment if you want to exclude screenshots
+# Screenshots/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
