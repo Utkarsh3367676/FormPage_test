@@ -17,7 +17,7 @@ packages/
 TestResults/
 
 # Screenshots folder - uncomment if you want to exclude screenshots
-# Screenshots/
+Screenshots/
 
 # .NET Core
 project.lock.json
